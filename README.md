@@ -1,3 +1,5 @@
+! https://github.com/Lara-Barreto-Castanheira/Project-A-B-Testing-Vanguard/blob/main/AB%20testing%20banner.jpg
+
 # Vanguard A/B Testing Project - README
 ## Overview
 This project focuses on conducting A/B testing between two different user interfaces for Vanguard's platform. The primary objective is to perform various statistical tests on the collected data and visualize the results using Tableau. The insights gained from this analysis will guide decisions on the optimal user interfaces design for improved user experience and business outcomes.
