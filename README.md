@@ -1,4 +1,4 @@
-! https://github.com/Lara-Barreto-Castanheira/Project-A-B-Testing-Vanguard/blob/main/AB%20testing%20banner.jpg
+![Logo](https://github.com/Lara-Barreto-Castanheira/Project-A-B-Testing-Vanguard/blob/main/AB%20testing%20banner.jpg)
 
 # Vanguard A/B Testing Project - README
 ## Overview
