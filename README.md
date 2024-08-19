@@ -11,8 +11,11 @@ Perform Statistical Analysis: Apply various statistical tests to determine the e
 Based on the statistical analysis and visualizations, provide recommendations on which users interface design to implement.
 
 ## Test Variants
-Control: The current user interface, representing the standard design used by Vanguard - Clients interacted with Vanguard’s traditional online process.
-Test: A new user interface, with design modifications intended to enhance user interaction and satisfaction - Clients experienced the new, spruced-up digital interface.
+### Control: 
+The current user interface, representing the standard design used by Vanguard - Clients interacted with Vanguard’s traditional online process.
+
+### Test: 
+A new user interface, with design modifications intended to enhance user interaction and satisfaction - Clients experienced the new, spruced-up digital interface.
 
 ## Metrics to Analyze
 1. Completion Rate: Percentage of users who completed the process in both the control and test versions.
